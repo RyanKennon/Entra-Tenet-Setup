@@ -1,0 +1,9 @@
+﻿Name [displayName] Required,User name [userPrincipalName] Required,Initial password [passwordProfile] Required,Account enabled (true/false) [accountEnabled],First name [givenName],Last name [surname],Job title [jobTitle],Department [department],Usage location [usageLocation],Street address [streetAddress],State or province [state],Country or region [country],Office [officeLocation],City [city],ZIP or postal code [postalCode],Business phone [businessPhones],Mobile phone [mobilePhone]
+Sarah Mitchell,sarah.mitchell@rnkennon123gmail.onmicrosoft.com,Cyberlab123!,TRUE,Sarah,Mitchell,HR Generalist,Human Resources,,,,,,,,,
+David Chen,david.chen@rnkennon123gmail.onmicrosoft.com,Cyberlab123!,TRUE,David,Chen,Sales Representative,Sales,,,,,,,,,
+Priya Patel,priya.patel@rnkennon123gmail.onmicrosoft.com,Cyberlab123!,TRUE,Priya,Patel,Financial Analyst,Finance,,,,,,,,,
+Marcus Reed,marcus.reed@rnkennon123gmail.onmicrosoft.com,Cyberlab123!,TRUE,Marcus,Reed,Network Administrator,IT,,,,,,,,,
+Emily Torres,emily.torres@rnkennon123gmail.onmicrosoft.com,Cyberlab123!,TRUE,Emily,Torres,Marketing Coordinator,Marketing,,,,,,,,,
+James O'Brien,james.obrien@rnkennon123gmail.onmicrosoft.com,Cyberlab123!,TRUE,James,O'Brien,Account Executive,Sales,,,,,,,,,
+Aisha Williams,aisha.williams@rnkennon123gmail.onmicrosoft.com,Cyberlab123!,TRUE,Aisha,Williams,HR Coordinator,Human Resources,,,,,,,,,
+Tyler Novak,tyler.novak@rnkennon123gmail.onmicrosoft.com,Cyberlab123!,TRUE,Tyler,Novak,Help Desk Technician,IT,,,,,,,,,
