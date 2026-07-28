@@ -17,8 +17,8 @@
 
 ### 2) Company Branding
 
-1. In the **Entra ID** dropdown **Select **Company Branding** then select **Customize**
-2. For the **Favicon** enter [**Kennon Technologies Flavicon**](https://github.com/RyanKennon/Entra-Tenet-Setup/blob/main/KT%20Favicon.jpg)
-3. For the **Background Image** enter [**Kennon Technologies Logo**](https://github.com/RyanKennon/Entra-Tenet-Setup/blob/main/Kennon%20Technologies%20Logo.png)
+1. In the **Entra ID** dropdown select **Company Branding** then select **Customize**
+2. For the **Favicon** enter [**Kennon Technologies Favicon**](https://github.com/RyanKennon/your-repo-name/blob/main/path/to/favicon.png)
+3. For the **Background Image** enter [**Kennon Technologies Background Image**](https://raw.githubusercontent.com/RyanKennon/your-repo-name/main/path/to/background-image.png)
 4. For the **Page Background Color** enter **1800ad** for the **Hex**
 5. 
