@@ -1,0 +1,36 @@
+# Kennon Technologies — Privacy Statement
+
+**Effective Date:** 7/27/2026
+
+## Overview
+Kennon Technologies ("we," "us," or "our") is committed to protecting the privacy of our employees, contractors, and authorized users within our identity and access management environment. This statement describes how we collect, use, and safeguard personal information processed through our Microsoft Entra ID tenant.
+
+## Information We Collect
+As part of managing user identities and access, we may collect and store:
+- Name and contact information (email address, phone number)
+- Job title and department
+- Authentication data (sign-in activity, MFA registration status)
+- Device information used to access company resources
+- Group and role assignments used for access control
+
+## How We Use This Information
+Information collected is used solely for:
+- Provisioning and managing user access to company resources
+- Enforcing security policies (Conditional Access, MFA)
+- Auditing and compliance reporting
+- Troubleshooting authentication and access issues
+
+## Data Retention
+Identity data is retained for the duration of an individual's active relationship with Kennon Technologies and is disabled/archived in accordance with our offboarding procedures upon separation.
+
+## Data Sharing
+We do not sell or share personal identity data with third parties outside of what is required for authentication, security, and license management through our identity provider (Microsoft Entra ID).
+
+## Security Measures
+We employ industry-standard security controls, including multi-factor authentication, Conditional Access policies, and role-based access control, to protect identity data from unauthorized access.
+
+## Contact
+For questions regarding this privacy statement, contact: privacy@kennon.tech
+
+---
+*This is a placeholder privacy statement created for lab and portfolio demonstration purposes as part of the Kennon Technologies Entra ID lab environment. It is not a legally binding document.*
