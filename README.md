@@ -59,7 +59,7 @@ Tenant properties establish the foundational identity of the Entra ID tenant, in
 
 Company branding customizes the visual identity of the sign-in experience by applying a custom favicon, background image, and page background color. This ensures users interact with a sign-in page that reflects Kennon Technologies rather than Microsoft's default Entra ID branding.
 
-1. In the **Entra ID** dropdown select **Company Branding** then select **Customize**
+1. In the **Entra ID** dropdown select **Custom Branding** then select **Customize**
 2. For the **Favicon** enter [**Kennon Technologies Favicon**](https://raw.githubusercontent.com/RyanKennon/Entra-Tenet-Setup/main/KT%20Favicon.jpg)
 3. For the **Background Image** enter [**Kennon Technologies Background Logo**](https://raw.githubusercontent.com/RyanKennon/Entra-Tenet-Setup/main/Kennon%20Technologies%20Logo.png)
 4. For the **Page Background Color** enter **1800ad** for the **Hex**
@@ -75,7 +75,7 @@ Company branding customizes the visual identity of the sign-in experience by app
 
 Publishing a privacy statement link in the sign-in footer provides users with visibility into how their identity data is collected and used. This is a standard governance practice for production tenants and demonstrates awareness of privacy/compliance requirements in an IAM context.
 
-1. In the **Entra ID** dropdown select **Company Branding** then select **Layout**
+1. In the **Entra ID** dropdown select **Custom Branding** then select **Layout**
 2. Under **Default Sign-In Experience** Select **Edit**
 3. Open the **Footer** page then upload the following information:
    - **Display Text:** Privacy Statement
@@ -99,7 +99,7 @@ Manually creating a user identity demonstrates the standard single-user provisio
    - **Display Name:** John Smith
   
 <p align="center">
-  <img width="682" height="390" alt="image" src="https://github.com/user-attachments/assets/69a5e5bc-dfc6-4c32-a5e5-12f066fe73e9" />
+  <img width="702" height="577" alt="image" src="https://github.com/user-attachments/assets/a13241e7-2df0-4094-9590-321588448136" />
 </p>
 
 4. Open the **Properties** tab then enter the following information:
@@ -115,7 +115,7 @@ Manually creating a user identity demonstrates the standard single-user provisio
 5. Press **Review + Create** then **Create**
 
 <p align="center">
-  <img width="1436" height="261" alt="image" src="https://github.com/user-attachments/assets/4697883b-bd44-4152-a48c-443e275fd952" />
+  <img width="855" height="316" alt="image" src="https://github.com/user-attachments/assets/bba56a9d-c9af-402b-8cfc-23dcea8e6aff" />
 </p>
 
 ---
@@ -129,7 +129,7 @@ Bulk user creation via CSV import demonstrates how identities are provisioned at
 3. Where it says **Upload Your CSV File** upload the **[CreateUsersTemplate](https://github.com/RyanKennon/Entra-Tenet-Setup/blob/main/CreateUsersTemplate.csv)** then **Submit**
 
 <p align="center">
-  <img width="854" height="490" alt="image" src="https://github.com/user-attachments/assets/fd7462aa-0ef3-4a07-82ae-101f707d8435" />
+  <img width="1057" height="484" alt="image" src="https://github.com/user-attachments/assets/07db50fa-6f82-4490-9414-d655ae9e971f" />
 </p>
 
 ---
@@ -138,7 +138,7 @@ Bulk user creation via CSV import demonstrates how identities are provisioned at
 
 Security groups are used to organize users by department and control access to resources and policies. Creating department-based security groups establishes the access structure that later labs in this series will build on for role-based access control and Conditional Access targeting.
 
-1. In the **Entra ID** dropdown select **Groups** then **All Groups** then **+ New Group**
+1. In the **Entra ID** dropdown select **Groups** then **All Groups** then **New Group**
 2. Create a **Group** with the following information then press **Create:**
    - **Group Type:** Security
    - **Group Name:** SG-IT-Staff
@@ -150,7 +150,7 @@ Security groups are used to organize users by department and control access to r
 3. Create **Security Groups** for the **Human Resources, Sales, Finance, Marketing** departments
 
 <p align="center">
-  <img width="1167" height="291" alt="image" src="https://github.com/user-attachments/assets/75a1d140-1705-4e99-958e-c372b2504c03" />
+  <img width="1036" height="273" alt="image" src="https://github.com/user-attachments/assets/0eb998f6-6764-44b0-8ef2-0673bc7e6fc2" />
 </p>
 
 ---
@@ -159,7 +159,7 @@ Security groups are used to organize users by department and control access to r
 
 Microsoft 365 groups provide collaboration-focused resources such as a shared mailbox, calendar, and Teams workspace. Creating a company-wide Microsoft 365 group demonstrates the distinction between access-control-focused security groups and collaboration-focused Microsoft 365 groups.
 
-1. In the **Entra ID** dropdown select **Groups** then **All Groups** then **+ New Group**
+1. In the **Entra ID** dropdown select **Groups** then **All Groups** then **New Group**
 2. Create a **Group** with the following information then press **Create:**
    - **Group Type:** Microsoft 365
    - **Group Name:** M365-AllStaff
