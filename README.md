@@ -10,7 +10,7 @@ This project demonstrates the foundational configuration of a Microsoft Entra ID
 
 ## Prerequisites
 
-This is the first lab of the Entra ID Lab Series.
+This is the first lab of the [Entra ID Lab Series](https://github.com/RyanKennon/Entra-ID-Lab-Series/tree/main).
 The following are required before starting the series:
 
 - **Microsoft Entra ID Tenant** — Sign up for a free Entra ID tenant/trial at [entra.microsoft.com](https://entra.microsoft.com)
