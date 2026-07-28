@@ -82,6 +82,41 @@
 2. Open the **Bulk Operations** then **Bulk Create (Preview)**
 3. Where it says **Upload Your CSV File** upload the **[CreateUsersTemplate](https://github.com/RyanKennon/Entra-Tenet-Setup/blob/main/CreateUsersTemplate.csv)** then **Submit**
 
+<p align="center">
+  <img width="854" height="490" alt="image" src="https://github.com/user-attachments/assets/fd7462aa-0ef3-4a07-82ae-101f707d8435" />
+</p>
 
+---
 
+### 6) Security Group Creation
 
+1. In the **Entra ID** dropdown select **Groups** then **All Groups** then **+ New Group**
+2. Create a **Group** with the following information then press **Create:**
+   - **Group Type:** Security
+   - **Group Name:** SG-IT-Staff
+  
+<p align="center">
+  <img width="689" height="346" alt="image" src="https://github.com/user-attachments/assets/98d44a1d-2b14-479f-878f-295f9183e689" />
+</p>
+
+3. Create **Security Groups** for the **Human Resources, Sales, Finance, Marketing** departments
+
+<p align="center">
+  <img width="1167" height="291" alt="image" src="https://github.com/user-attachments/assets/75a1d140-1705-4e99-958e-c372b2504c03" />
+</p>
+
+---
+
+### 7) Microsoft 365 Group Creation
+
+1. In the **Entra ID** dropdown select **Groups** then **All Groups** then **+ New Group**
+2. Create a **Group** with the following information then press **Create:**
+   - **Group Type:** Microsoft 365
+   - **Group Name:** M365-AllStaff
+   - **Members:** All members
+  
+<p align="center">
+  <img width="733" height="644" alt="image" src="https://github.com/user-attachments/assets/48430114-9389-440b-80d9-360ea1f32f69" />
+</p>
+
+---
