@@ -80,5 +80,6 @@
 
 1. In the **Entra ID** dropdown select **Users** then **All Users**
 2. Open the **Bulk Operations** then **Bulk Create (Preview)**
+3. Where it says **Upload Your CSV File** upload the **[CreateUsersTemplate](https://github.com/RyanKennon/Entra-Tenet-Setup/blob/main/CreateUsersTemplate.csv)**
 
 
