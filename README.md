@@ -4,9 +4,11 @@
 
 # Entra-Tenet-Setup
 
+---
+
 ### 1) 
 
-1. In the **Microsoft Entra Admin Center** open the **Entra ID** dropdown then select **Overview**
+1. In the **Entra ID** dropdown then select **Overview**
 2. For the **Name** enter **Kennon Technologies** then **Save**
 
 <p align="center">
@@ -35,15 +37,48 @@
 2. Under **Default Sign-In Experience** Select **Edit**
 3. Open the **Footer** page then upload the following information:
    - **Display Text:** Privacy Statement
-   - **URL:** 
+   - **URL:** https://github.com/RyanKennon/Entra-Tenet-Setup/blob/main/privacy-statement
+4. **Review + Save** then **Save**
 
+<p align="center">
+  <img width="483" height="329" alt="image" src="https://github.com/user-attachments/assets/e9bc5f95-8de8-4832-b511-4c753c552f37" />
+</p>
 
+---
 
+### 4) Manual User Creation
 
+1. In the **Entra ID** dropdown select **Users** then **All Users**
+2. Select **+ New User** then **Create New User**
+3. On the **Basics** tab enter the following information:
+   - **User Principal Name:** johnsmith
+   - **Display Name:** John Smith
+  
+<p align="center">
+  <img width="682" height="390" alt="image" src="https://github.com/user-attachments/assets/69a5e5bc-dfc6-4c32-a5e5-12f066fe73e9" />
+</p>
 
+4. Open the **Properties** tab then enter the following information:
+   - **First Name:** John
+   - **Last Name:** Smith
+   - **Job Title:** IT Support Specialist
+   - **Department:** IT
+  
+<p align="center">
+  <img width="838" height="349" alt="image" src="https://github.com/user-attachments/assets/5342a5eb-bc76-4180-b28b-b5f887a7cc1f" />
+</p>
 
+5. Press **Review + Create** then **Create**
 
+<p align="center">
+  <img width="1436" height="261" alt="image" src="https://github.com/user-attachments/assets/4697883b-bd44-4152-a48c-443e275fd952" />
+</p>
 
+---
 
+### 5) 
+
+1. In the **Entra ID** dropdown select **Users** then **All Users**
+2. Open the **Bulk Operations** then **Bulk Create (Preview)**
 
 
