@@ -33,8 +33,9 @@
 
 1. In the **Entra ID** dropdown select **Company Branding** then select **Layout**
 2. Under **Default Sign-In Experience** Select **Edit**
-3. Open the **Layout** page then scroll down to **Custom CSS**
-4. 
+3. Open the **Footer** page then upload the following information:
+   - **Display Text:** Privacy Statement
+   - **URL:** 
 
 
 
