@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="474" height="279" alt="image" src="https://github.com/user-attachments/assets/584155f5-b617-48f1-bd7c-22029abedfb7" />
+  <img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/3f788404-0958-4c94-a27b-f6ad5c86a1ca" />
 </p>
 
 # Entra ID Tenant Setup & Configuration
