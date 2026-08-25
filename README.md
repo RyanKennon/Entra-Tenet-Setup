@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/3f788404-0958-4c94-a27b-f6ad5c86a1ca" />
+  <img src="Images/Entra%20ID%20Header.png" width="600" height="400">
 </p>
 
 # Entra ID Tenant Setup & Configuration
@@ -50,7 +50,7 @@ Tenant properties establish the foundational identity of the Entra ID tenant, in
 2. For the **Name** enter **Kennon Technologies** then **Save**
 
 <p align="center">
-  <img width="709" height="373" alt="image" src="https://github.com/user-attachments/assets/e14a37df-084e-4d65-99a8-bc70f29875b2" />
+  <img src="Images/Image%201.png" img width="709" height="373" alt="image">
 </p>
 
 ---
@@ -66,7 +66,7 @@ Company branding customizes the visual identity of the sign-in experience by app
 5. **Review + Create** then **Create**
 
 <p align="center">
-  <img width="331" height="164" alt="image" src="https://github.com/user-attachments/assets/1fd37dab-c270-4e30-ba5c-8b27228ef446" />
+  <img src="Images/Image%202.png" img width="331" height="164" alt="image">
 </p>
 
 ---
@@ -83,7 +83,7 @@ Publishing a privacy statement link in the sign-in footer provides users with vi
 4. **Review + Save** then **Save**
 
 <p align="center">
-  <img width="483" height="329" alt="image" src="https://github.com/user-attachments/assets/e9bc5f95-8de8-4832-b511-4c753c552f37" />
+  <img src="Images/Image%203.png" img width="483" height="329" alt="image">
 </p>
 
 ---
@@ -99,7 +99,7 @@ Manually creating a user identity demonstrates the standard single-user provisio
    - **Display Name:** John Smith
   
 <p align="center">
-  <img width="702" height="577" alt="image" src="https://github.com/user-attachments/assets/a13241e7-2df0-4094-9590-321588448136" />
+  <img src="Images/Image%204.png" img width="702" height="577" alt="image">
 </p>
 
 4. Open the **Properties** tab then enter the following information:
@@ -109,13 +109,13 @@ Manually creating a user identity demonstrates the standard single-user provisio
    - **Department:** IT
   
 <p align="center">
-  <img width="838" height="349" alt="image" src="https://github.com/user-attachments/assets/5342a5eb-bc76-4180-b28b-b5f887a7cc1f" />
+  <img src="Images/Image%205.png" img width="838" height="349" alt="image">
 </p>
 
 5. Press **Review + Create** then **Create**
 
 <p align="center">
-  <img width="855" height="316" alt="image" src="https://github.com/user-attachments/assets/bba56a9d-c9af-402b-8cfc-23dcea8e6aff" />
+  <img src="Images/Image%206.png" img width="855" height="316" alt="image">
 </p>
 
 ---
@@ -129,7 +129,7 @@ Bulk user creation via CSV import demonstrates how identities are provisioned at
 3. Where it says **Upload Your CSV File** upload the **[CreateUsersTemplate](https://github.com/RyanKennon/Entra-Tenet-Setup/blob/main/CreateUsersTemplate.csv)** then **Submit**
 
 <p align="center">
-  <img width="1057" height="484" alt="image" src="https://github.com/user-attachments/assets/07db50fa-6f82-4490-9414-d655ae9e971f" />
+  <img src="Images/Image%207.png" img width="1057" height="484" alt="image">
 </p>
 
 ---
@@ -144,13 +144,13 @@ Security groups are used to organize users by department and control access to r
    - **Group Name:** SG-IT-Staff
   
 <p align="center">
-  <img width="689" height="346" alt="image" src="https://github.com/user-attachments/assets/98d44a1d-2b14-479f-878f-295f9183e689" />
+  <img src="Images/Image%208.png" img width="689" height="346" alt="image">
 </p>
 
 3. Create **Security Groups** for the **Human Resources, Sales, Finance, Marketing** departments
 
 <p align="center">
-  <img width="1036" height="273" alt="image" src="https://github.com/user-attachments/assets/0eb998f6-6764-44b0-8ef2-0673bc7e6fc2" />
+  <img src="Images/Image%209.png" img width="1036" height="273" alt="image">
 </p>
 
 ---
@@ -166,7 +166,7 @@ Microsoft 365 groups provide collaboration-focused resources such as a shared ma
    - **Members:** All members
   
 <p align="center">
-  <img width="733" height="644" alt="image" src="https://github.com/user-attachments/assets/48430114-9389-440b-80d9-360ea1f32f69" />
+  <img src="Images/Image%210.png" img width="733" height="644" alt="image">
 </p>
 
 ---
