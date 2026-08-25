@@ -79,7 +79,7 @@ Publishing a privacy statement link in the sign-in footer provides users with vi
 2. Under **Default Sign-In Experience** Select **Edit**
 3. Open the **Footer** page then upload the following information:
    - **Display Text:** Privacy Statement
-   - **URL:** https://github.com/RyanKennon/Entra-Tenet-Setup/blob/main/privacy-statement
+   - **URL:** https://github.com/RyanKennon/Entra-Tenet-Setup/blob/main/Assets/privacy-statement
 4. **Review + Save** then **Save**
 
 <p align="center">
