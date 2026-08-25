@@ -166,7 +166,7 @@ Microsoft 365 groups provide collaboration-focused resources such as a shared ma
    - **Members:** All members
   
 <p align="center">
-  <img src="Images/Image%210.png" img width="733" height="644" alt="image">
+  <img src="Images/Image%2010.png" img width="733" height="644" alt="image">
 </p>
 
 ---
