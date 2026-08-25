@@ -60,8 +60,8 @@ Tenant properties establish the foundational identity of the Entra ID tenant, in
 Company branding customizes the visual identity of the sign-in experience by applying a custom favicon, background image, and page background color. This ensures users interact with a sign-in page that reflects Kennon Technologies rather than Microsoft's default Entra ID branding.
 
 1. In the **Entra ID** dropdown select **Custom Branding** then select **Customize**
-2. For the **Favicon** enter [**Kennon Technologies Favicon**](https://raw.githubusercontent.com/RyanKennon/Entra-Tenet-Setup/main/KT%20Favicon.jpg)
-3. For the **Background Image** enter [**Kennon Technologies Background Logo**](https://raw.githubusercontent.com/RyanKennon/Entra-Tenet-Setup/main/Kennon%20Technologies%20Logo.png)
+2. For the **Favicon** enter [**Kennon Technologies Favicon**](https://raw.githubusercontent.com/RyanKennon/Entra-Tenet-Setup/main/Assets/KT%20Favicon.jpg)
+3. For the **Background Image** enter [**Kennon Technologies Background Logo**](https://raw.githubusercontent.com/RyanKennon/Entra-Tenet-Setup/main/Assets/Kennon%20Technologies%20Logo.png)
 4. For the **Page Background Color** enter **1800ad** for the **Hex**
 5. **Review + Create** then **Create**
 
@@ -126,7 +126,7 @@ Bulk user creation via CSV import demonstrates how identities are provisioned at
 
 1. In the **Entra ID** dropdown select **Users** then **All Users**
 2. Open the **Bulk Operations** then **Bulk Create (Preview)**
-3. Where it says **Upload Your CSV File** upload the **[CreateUsersTemplate](https://github.com/RyanKennon/Entra-Tenet-Setup/blob/main/CreateUsersTemplate.csv)** then **Submit**
+3. Where it says **Upload Your CSV File** upload the **[CreateUsersTemplate](https://github.com/RyanKennon/Entra-Tenet-Setup/blob/main/Assets/CreateUsersTemplate.csv)** then **Submit**
 
 <p align="center">
   <img src="Images/Image%207.png" img width="1057" height="484" alt="image">
